@@ -1,3 +1,3 @@
 # PersonalSite
-Inspired by Seal Halpin<br/>
-Mentored by Angela Yu
+Inspired by Seal Halpin.<br/>
+Mentored by Angela Yu.
